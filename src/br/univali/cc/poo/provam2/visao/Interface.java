@@ -1,17 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package br.univali.cc.poo.provam2.visao;
 import br.univali.cc.poo.provam2.dominio.Aquisicao;
 import br.univali.cc.poo.provam2.dominio.MaoObra;
 import br.univali.cc.poo.provam2.dominio.Projeto;
 import java.util.Scanner;
-/**
- *
- * @author 8112363
- */
+
 public class Interface {
     
     Projeto projeto;
