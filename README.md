@@ -1,6 +1,6 @@
 # PROVA PRÁTICA POO
 
-## SisCOAP - Sistema de Confecção de Orçamentos Aplicados a Projetos” utilizando os conceitos de programação orientada a objetos
+## SisCOAP - Sistema de Confecção de Orçamentos Aplicados a Projetos utilizando os conceitos de programação orientada a objetos
 
 ### Visão geral: <br>
 Tendo em vista a dificuldade dos prestadores de serviços serem assertivos em relação aos custos e preços dos projetos
